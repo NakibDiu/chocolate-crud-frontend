@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-bg {
+  background: radial-gradient(
+    126.75% 133.09% at 50% 49.99%,
+    #dc8d48 0%,
+    #d38745 4.19%,
+    #91572b 36.95%,
+    #5e3116 66.01%,
+    #3f1a0a 87.87%,
+    #331105 100%
+  );
+}
+.btn-bg{
+  background: linear-gradient(0deg, #91572B, #91572B);
+}
+.th-bg {
+  background: radial-gradient(173.43% 182.1% at 50% 49.99%, rgba(220, 141, 72, 0.3) 0%, rgba(211, 135, 69, 0.3) 4.19%, rgba(145, 87, 43, 0.3) 36.95%, rgba(94, 49, 22, 0.3) 66.01%, rgba(63, 26, 10, 0.3) 87.87%, rgba(51, 17, 5, 0.3) 100%);
+}
+.action-bg{
+  background: linear-gradient(90.74deg, rgba(119, 67, 32, 0.15) 0.16%, rgba(232, 197, 128, 0.15) 100%);
+}
